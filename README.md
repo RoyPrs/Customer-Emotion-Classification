@@ -9,7 +9,7 @@ To classify user feedback into emotion categories (e.g., joy, sadness, anger, et
 
 - **TensorFlow LSTM Model**: Introduced deep learning but encountered overfitting, likely due to class imbalance.
 
-- **Text Classification from HuggingFace Transformers**: Final model achieved an impressive 99.2% accuracy, highlighting the power of transfer learning and contextual embeddings.
+- **Text Classification from HuggingFace Transformers**: Final model achieved 90.72% accuracy, highlighting the power of transfer learning and contextual embeddings.
 
 ## 📦 Tools Used
 - Python (pandas, numpy)
